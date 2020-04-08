@@ -2,3 +2,5 @@ There is only one rule: anything in the master branch is always deployable
 
 Github help documentation: 
   https://help.github.com/en/github
+
+When pull request is merged, the related issues are als oclsoed. 
