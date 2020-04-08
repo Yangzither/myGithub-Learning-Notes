@@ -1,5 +1,4 @@
-# hello-world
+# Thsi is my Github learning notes
 
 
-This is my new test 
-This is new idea branch 
+
